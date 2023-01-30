@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D895FAC7-3092-40FE-A7CD-AE6D2046A0E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AD2076F-174B-4F0B-BB38-408D786EF285"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KakaoTalk-mimic/PageFriends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8AD2076F-174B-4F0B-BB38-408D786EF285 - dc5a5fc025df6213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;Swift.Array&lt;KakaoTalk_mimic.FriendsListProfile&gt;&gt; in closure #1 () -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;Swift.Array&lt;KakaoTalk_mimic.FriendsListProfile&gt;&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in KakaoTalk_mimic.PageFriends.body.getter : some"
+                  moduleName = "KakaoTalk-mimic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ksum/Desktop/KakaoTalk-mimic/KakaoTalk-mimic/PageFriends.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8AD2076F-174B-4F0B-BB38-408D786EF285 - 30702594c4ff5875"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (KakaoTalk_mimic.FriendsListProfile) -&gt; KakaoTalk_mimic.FriendsListProfile in closure #1 () -&gt; SwiftUI.TupleView&lt;Swift.Array&lt;KakaoTalk_mimic.FriendsListProfile&gt;&gt; in closure #1 () -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;Swift.Array&lt;KakaoTalk_mimic.FriendsListProfile&gt;&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in KakaoTalk_mimic.PageFriends.body.getter : some"
+                  moduleName = "KakaoTalk-mimic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ksum/Desktop/KakaoTalk-mimic/KakaoTalk-mimic/PageFriends.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
